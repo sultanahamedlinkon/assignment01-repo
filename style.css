@@ -1,0 +1,194 @@
+*{
+ margin: 0;
+ padding: 0;
+ font-family: fira sans;
+}
+/*navbar style*/
+.navbar{
+ font-family: fira sans;
+ display: flex;
+ justify-content: space-between;
+ padding: 40px 80px;
+ background-color: rgb(245, 245, 245);
+}
+.first-heading{
+ font-size: 25px;
+ font-weight: bold;
+ color: rgb(14, 14, 14);
+}
+.sign-btn{
+ color: rgb(0, 106, 80);
+border: 1px solid black;
+border-radius: 5px;
+padding: 10px 20px;
+}
+.sign-btn:hover{
+background-color: wheat;
+}
+/*banner design*/
+
+.banner{
+ background-color:rgb(198, 228, 214) ;
+ width: 90%;
+ height: 550px;
+ margin: 0 auto;
+margin-top: 30px;
+border-radius: 15px;
+display: flex;
+align-items: center;
+justify-content:space-between ;
+}
+
+.bangla{
+ color: rgba(14, 14, 14, 0.5);
+ font-size: 20px;
+ padding-bottom: 15px;
+}
+.banner-title{
+ font-size: 46px;
+color: rgb(14, 14, 14);
+padding-bottom: 15px;
+}
+.banner-btn{
+margin-top: 15px;
+ padding:10px ;
+ background-color: rgb(0, 106, 80);
+ border-radius: 4px;
+ border: none;
+ color: white;
+}
+.left-side{
+padding-left: 50px;
+
+}
+.right-side{
+padding-right: 60px;
+}
+
+.banner-btn:hover{
+background-color: crimson;
+}
+/*pillars of bd section*/
+.terget-contenar{
+ background-color: #F1F1F3;
+ width: 90%;
+ height: 420px;
+ margin: 0 auto;
+ margin-top: 60px;
+}
+.box-contenar{
+ display: flex;
+ justify-content: center;
+ gap: 20px;
+}
+.box-title{
+ padding-top: 50px;
+ padding-left: 114px;
+}
+.box-1{
+ text-align:justify ;
+ width: 250px;
+ height: 150px;
+ background-color: #FFFFFF;
+ color:rgba(14, 14, 14, 0.7);
+border-radius: 10px;
+border: 1px solid rgba(14, 14, 14, 0.15);;
+ padding: 15px;
+ margin-top: 20px;
+}
+.heading{
+padding: 5px;
+color: black;
+}
+.title{
+padding-bottom: 5px;
+}
+
+.box-2{
+ text-align:justify ;
+ width: 250px;
+ height: 150px;
+ background-color: #FFFFFF;
+ color:rgba(14, 14, 14, 0.7);
+border-radius: 10px;
+border: 1px solid rgba(14, 14, 14, 0.15);;
+ padding: 15px;
+ margin-top: 20px;
+}
+.heading{
+padding: 5px;
+color: black;
+}
+.title{
+padding-bottom: 5px;
+}
+
+.box-3{
+ text-align:justify ;
+ width: 250px;
+ height: 150px;
+ background-color: #FFFFFF;
+ color:rgba(14, 14, 14, 0.7);
+border-radius: 10px;
+border: 1px solid rgba(14, 14, 14, 0.15);;
+ padding: 15px;
+ margin-top: 20px;
+}
+.heading{
+padding: 5px;
+color: black;
+}
+.title{
+padding-bottom: 5px;
+}
+
+.box-4{
+ text-align:justify ;
+ width: 250px;
+ height: 150px;
+ background-color: #FFFFFF;
+ color:rgba(14, 14, 14, 0.7);
+border-radius: 10px;
+border: 1px solid rgba(14, 14, 14, 0.15);;
+ padding: 15px;
+ margin-top: 20px;
+}
+.heading{
+padding: 5px;
+color: black;
+}
+.title{
+padding-bottom: 5px;
+}
+/*The Vision of Future section*/
+.main-contenar{
+ background-color: #FFFFFF;
+ width: 90%;
+ height: 500px;
+ padding-top: 60px;
+ margin: 0 auto;
+ text-align: start;
+}
+.main-heading{
+ font-size:35px ;
+ padding-bottom: 15px;
+ padding-left: 114px;
+ color: #0E0E0E;
+}
+.main-dec{
+ color: rgb(14, 14, 14, 0.7);
+ padding-left: 114px;
+}
+
+.sub-contenar{
+ height: 270px;
+ width: 350px;
+ background-color:rgba(84, 144, 245, 0.2);
+}
+
+.main-1{
+ text-align: left;
+}
+.main-heading{
+ text-align: justify;
+}
