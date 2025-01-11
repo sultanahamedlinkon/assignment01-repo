@@ -3,6 +3,9 @@
  padding: 0;
  font-family: fira sans;
 }
+body{
+ background-color:#F1F1F3;
+}
 /*navbar style*/
 .navbar{
  font-family: fira sans;
@@ -79,13 +82,12 @@ background-color: crimson;
 }
 .box-contenar{
  display: flex;
- justify-content: center;
- gap: 20px;
+ justify-content: space-between;
 }
-.box-title{
+/*.box-title{
  padding-top: 50px;
  padding-left: 114px;
-}
+}*/
 .box-1{
  text-align:justify ;
  width: 250px;
@@ -266,4 +268,27 @@ padding-bottom: 5px;
 
 .main-btn3:hover{
  background-color: crimson;
+}
+
+/*dr yunus part*/
+.dr-yunus{
+ margin: 0 auto;
+ background-image: url(./assets/quote-bg.png);
+ background-repeat: no-repeat;
+ background-position: ;
+ height: 350px;
+ width: 90%;
+ background-color:#88878734 ;
+margin-top: 50px;
+
+ border-radius: 10px;
+}
+.dr-yunus{
+ padding-left: 30px;
+}
+.yunus-p{
+ color: #0E0E0E;
+ padding-top: 50px;
+ padding-left: 30px;
+ padding-bottom: 25px;
 }
